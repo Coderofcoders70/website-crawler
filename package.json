@@ -4,7 +4,7 @@
   "description": "My Web Crawler project is designed to browse and extract valuable data from websites.",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node --no-warnings main.js",
     "test": "jest"
   },
   "author": "",
