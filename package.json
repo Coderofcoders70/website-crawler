@@ -1,0 +1,15 @@
+{
+  "name": "website-crawler",
+  "version": "1.0.0",
+  "description": "My Web Crawler project is designed to browse and extract valuable data from websites.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
